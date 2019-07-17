@@ -13,3 +13,6 @@ A simple web application using Bootstrap to build responsive, mobile friendly pr
 
 
 /img - contains all the images used in the application
+
+
+![Screen Shot 2019-07-17 at 4 56 07 PM](https://user-images.githubusercontent.com/46911124/61414520-b33f0000-a8dd-11e9-85b6-f62ccf3d0f7b.png)
